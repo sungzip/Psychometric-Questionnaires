@@ -1,0 +1,202 @@
+{
+    "It's very important to her to show her abilities. She wants people to admire what she does.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Being very successful is important to her. She likes to impress other people.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it is important to be ambitious. She wants to show how capable she is.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Getting ahead in life is important to her. She strives to do better than others.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It's very important to her to help the people around her. She wants to care for their well-being.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be loyal to her friends. She wants to devote herself to people close to her.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to respond to the needs of others. She tries to support those she knows.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Forgiving people who have hurt her is important to her. She tries to see what is good in them and not to hold a grudge.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She believes that people should do what they're told. She thinks people should follow rules at all times, even when no-one is watching.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her always to behave properly. She wants to avoid doing anything people would say is wrong.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She believes she should always show respect to her parents and to older people. It is important to her to be obedient.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be polite to other people all the time. She tries never to disturb or irritate others.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She seeks every chance she can to have fun. It is important to her to do things that give her pleasure.": {
+        "trait": "Hedonism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Enjoying life\u2019s pleasures is important to her. She likes to \u2018spoil\u2019 herself.": {
+        "trait": "Hedonism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She really wants to enjoy life. Having a good time is very important to her.": {
+        "trait": "Hedonism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be rich. She wants to have a lot of money and expensive things.": {
+        "trait": "Power",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be in charge and tell others what to do. She wants people to do what she says.": {
+        "trait": "Power",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She always wants to be the one who makes the decisions. She likes to be the leader.": {
+        "trait": "Power",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to live in secure surroundings. She avoids anything that might endanger her safety.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is very important to her that her country be safe. She thinks the state must be on watch against threats from within and without.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her that things be organized and clean. She really does not like things to be a mess.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She tries hard to avoid getting sick. Staying healthy is very important to her.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Having a stable government is important to her. She is concerned that the social order be protected.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Thinking up new ideas and being creative is important to her. She likes to do things in her own original way.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to make her own decisions about what she does. She likes to be free to plan and to choose her activities for herself.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it's important to be interested in things. She likes to be curious and to try to understand all sorts of things.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be independent. She likes to rely on herself.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it is important to do lots of different things in life. She always looks for new things to try.": {
+        "trait": "Stimulation",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She likes to take risks. She is always looking for adventures.": {
+        "trait": "Stimulation",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She likes surprises. It is important to her to have an exciting life.": {
+        "trait": "Stimulation",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it's important not to ask for more than what you have. She believes that people should be satisfied with what they have.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "Religious belief is important to her. She tries hard to do what her religion requires.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it is best to do things in traditional ways. It is important to her to keep up the customs she has learned.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to be humble and modest. She tries not to draw attention to herself.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She thinks it is important that every person in the world be treated equally. She believes everyone should have equal opportunities in life.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to listen to people who are different from her. Even when she disagrees with them, she still wants to understand them.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She strongly believes that people should care for nature. Looking after the environment is important to her.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She believes all the worlds\u2019 people should live in harmony. Promoting peace among all groups in the world is important to her.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "She wants everyone to be treated justly, even people she doesn\u2019t know. It is important to her to protect the weak in society.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    },
+    "It is important to her to adapt to nature and to fit into it. She believes that people should not change nature.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "female"
+    }
+}
