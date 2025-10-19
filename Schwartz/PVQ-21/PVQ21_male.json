@@ -1,0 +1,107 @@
+{
+    "It's important to him to show his abilities. He wants people to admire what he does.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "Being very successful is important to him. He hopes people will recognize his achievements.": {
+        "trait": "Achievement",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It's very important to him to help the people around him. He wants to care for their well-being.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to be loyal to his friends. He wants to devote himself to people close to him.": {
+        "trait": "Benevolence",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He believes that people should do what they're told. He thinks people should follow rules at all times, even when no-one is watching.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him always to behave properly. He wants to avoid doing anything people would say is wrong.": {
+        "trait": "Conformity",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "Having a good time is important to him. He likes to \"spoil\" himself.": {
+        "trait": "Hedonism",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He seeks every chance he can to have fun. It is important to him to do things that give him pleasure.": {
+        "trait": "Hedonism",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to be rich. He wants to have a lot of money and expensive things.": {
+        "trait": "Power",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to get respect from others. He wants people to do what he says.": {
+        "trait": "Power",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to live in secure surroundings. He avoids anything that might endanger his safety.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him that the government insure his safety against all threats. He wants the state to be strong so it can defend its citizens.": {
+        "trait": "Security",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "Thinking up new ideas and being creative is important to him. He likes to do things in his own original way.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to make his own decisions about what he does. He likes to be free to plan and not depend on others.": {
+        "trait": "Self-Direction",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He likes surprises and is always looking for new things to do. He thinks it is important to do lots of different things in life.": {
+        "trait": "Stimulation",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He looks for adventures and likes to take risks. He wants to have an exciting life.": {
+        "trait": "Stimulation",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to be humble and modest. He tries not to draw attention to himself.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "Tradition is important to him. He tries to follow the customs handed down by his religion or his family.": {
+        "trait": "Tradition",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He thinks it is important that every person in the world be treated equally. He believes everyone should have equal opportunities in life.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "It is important to him to listen to people who are different from him. Even when he disagrees with them, he still wants to understand them.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "male"
+    },
+    "He strongly believes that people should care for nature. Looking after the environment is important to him.": {
+        "trait": "Universalism",
+        "correlation": "pos",
+        "gender": "male"
+    }
+}

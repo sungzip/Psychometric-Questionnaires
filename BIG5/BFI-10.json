@@ -1,0 +1,42 @@
+{
+    "I see myself as someone who is generally trusting.": {
+        "trait": "Agreeableness",
+        "correlation": "pos"
+    },
+    "I see myself as someone who tends to find fault with others.": {
+        "trait": "Agreeableness",
+        "correlation": "neg"
+    },
+    "I see myself as someone who tends to be lazy.": {
+        "trait": "Conscientiousness",
+        "correlation": "neg"
+    },
+    "I see myself as someone who does a thorough job.": {
+        "trait": "Conscientiousness",
+        "correlation": "pos"
+    },
+    "I see myself as someone who is reserved.": {
+        "trait": "Extraversion",
+        "correlation": "neg"
+    },
+    "I see myself as someone who is outgoing, sociable.": {
+        "trait": "Extraversion",
+        "correlation": "pos"
+    },
+    "I see myself as someone who is relaxed, handles stress well.": {
+        "trait": "Neuroticism",
+        "correlation": "neg"
+    },
+    "I see myself as someone who gets nervous easily.": {
+        "trait": "Neuroticism",
+        "correlation": "pos"
+    },
+    "I see myself as someone who has few artistic interests.": {
+        "trait": "Openness to Experience",
+        "correlation": "neg"
+    },
+    "I see myself as someone who has an active imagination.": {
+        "trait": "Openness to Experience",
+        "correlation": "pos"
+    }
+}
